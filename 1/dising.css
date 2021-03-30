@@ -1,0 +1,107 @@
+body{
+    margin: 0;
+    background-color: rgba(120, 5, 228, 0.705);
+}
+#ENCABEZADO{
+    height: 150px;
+    padding-top: 20px;
+    margin: 0;
+    background-color:black;
+    width: 100%;
+}
+
+
+
+#logo img{
+    width: 250px;
+    float: left;
+}
+.MENU{
+    
+    float: left;
+    
+    
+    
+}
+li{
+
+    display: inline; 
+    
+}
+
+.menu1 {
+
+    color: white;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 25px;
+    text-decoration: none;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    
+    
+}
+
+.menu1:hover{
+    border: solid;
+    color: violet;
+    font-size: 30px;
+    
+}
+
+#CUERPO{
+    width: 800px;
+    height: 1000px;
+    margin-top: 150px;
+    margin-right: 100px;
+    background-color:rgba(0, 0, 0, 0.938);
+    border: white solid;
+    float: right;
+}
+
+#MENUWOMAN{
+    background-color: black;
+    margin-left: 20px;
+    
+    float: left;
+    margin-top: 150px;
+    
+    border: white solid;
+    width: 250px;
+    height: 1000px;
+
+    
+}
+
+#MENUWOMAN a{
+    color: white;
+    font-size: 20px;
+    float: left;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    padding-left: 60px;
+    padding-top: 20px;
+    text-decoration: none;
+}
+
+#MENUWOMAN a:hover{
+   color: violet;
+  }
+
+
+.MENU ul{
+    margin-top: 50px;
+}
+
+#tablefotos{
+    padding:5px;
+}
+
+#tablefotos tr th img{
+    width: 250px;
+}
+
+
+
+
+
+
+
